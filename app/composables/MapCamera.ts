@@ -242,7 +242,7 @@ export const useMapCamera = (map: Ref<Map | null>) => {
         if (!map.value || !currentTruckCoords) return;
         isNavigating.value = false;
 
-        resumeCameraLock(false);
+        resumeCameraLock(isAutoFollowEnabled.value);
     };
 
     onUnmounted(() => {
