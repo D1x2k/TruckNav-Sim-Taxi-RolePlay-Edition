@@ -1,3 +1,8 @@
+[🇷🇺 Русский](#-русский) | [🇬🇧 English](#-english)
+
+---
+
+<a id="-русский"></a>
 # 🚖 TruckNav-Sim: Taxi RolePlay Edition
 
 **TruckNav-Sim: Taxi RP** — это модифицированная версия оригинального веб-навигатора [TruckNav-Sim](https://github.com/Rares-Muntean/TruckNav-Sim) для Euro Truck Simulator 2. 
@@ -33,3 +38,44 @@
 
 ---
 *Форк создан для фанатов ETS2. Огромное спасибо автору оригинального TruckNav-Sim за потрясающую базу!*
+
+<br><br>
+
+---
+
+<a id="-english"></a>
+# 🚖 TruckNav-Sim: Taxi RolePlay Edition
+
+**TruckNav-Sim: Taxi RP** is a modified version of the original web navigator [TruckNav-Sim](https://github.com/Rares-Muntean/TruckNav-Sim) for Euro Truck Simulator 2.
+
+I took the excellent telemetry-based navigator and added a **fully functional taxi mechanic** (similar to Uber / Yandex.Taxi) on top of it. If you enjoy driving car mods in ETS2, you now have a real purpose: go online, catch orders, drive virtual passengers, and earn money (currently, the money counter does not save, but this will be fixed in the future).
+
+---
+
+## 🔥 What's New
+
+*   **Interactive Taxi UI:** A stylish overlay on top of the main map. It doesn't block map controls and looks like a premium mobile app.
+*   **Smart Order Generator:** The app takes your current in-game coordinates and generates realistic nearby orders. The order card instantly shows the trip distance (e.g., 54.0 km) and the estimated cost (e.g., $108). You get a timer to accept the order!
+*   **Deep Telemetry Integration:** 
+    *   The app reads your in-game coordinates (X, Y, Z) and speed in real-time.
+    *   The "Arrived" button unlocks **only** when you reach the pickup point (distance < 20 meters) and come to a complete stop (speed = 0).
+
+---
+
+## 🛠 How It Works (For Players)
+
+1. **Go Online:** Open the map and swipe to activate the large yellow **"Go Online"** button. The radar will start searching for available passengers.
+2. **Accept Order:** When an order appears, evaluate the distance and cost. You have 10 seconds to tap **"Accept Order"**.
+3. **Pickup:** Drive to Point A. Once you stop near the required coordinates, the app will prompt you to swipe the arrival button.
+4. **Trip:** Wait for the passenger, swipe the **"Start Trip"** button, and enjoy the ride.
+
+---
+
+## 💻 Installation and Setup
+
+1. Download the latest version of the app from the [Releases](https://github.com/D1x2k/TruckNav-Sim-Taxi-RolePlay-Edition/releases) page.
+2. Install the app on Windows and Android (currently, there is no support for this version on iOS).
+3. Launch the app on both devices, establish the connection, and enjoy the game.
+
+---
+*This fork was created for ETS2 fans. A huge thanks to the author of the original TruckNav-Sim for the amazing base!*
