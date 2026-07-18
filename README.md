@@ -1,7 +1,8 @@
 # [🇷🇺 Русский](#-русский) | [🇬🇧 English](#-english)
 
 ---
-<img width="1920" height="803" alt="Preview" src="https://github.com/user-attachments/assets/c4265dc0-153d-4ad0-aecc-8a0065f980a4" />
+<img width="1893" height="777" alt="Preview" src="https://github.com/user-attachments/assets/ad3f7b85-d4c5-4176-9ff9-b2322d9ed3d6" />
+
 
 
 <a id="-русский"></a>
