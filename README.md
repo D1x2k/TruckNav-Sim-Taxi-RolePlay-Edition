@@ -1,6 +1,8 @@
 # [🇷🇺 Русский](#-русский) | [🇬🇧 English](#-english)
 
 ---
+<img width="1920" height="803" alt="Preview" src="https://github.com/user-attachments/assets/c4265dc0-153d-4ad0-aecc-8a0065f980a4" />
+
 
 <a id="-русский"></a>
 # 🚖 TruckNav-Sim: Taxi RolePlay Edition
